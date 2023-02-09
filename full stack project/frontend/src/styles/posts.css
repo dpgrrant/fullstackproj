@@ -1,0 +1,13 @@
+
+  .funds{
+    margin:10rem;
+    padding:1rem;
+    border-radius:2rem;
+  }
+  .funds:hover {
+    box-shadow: .5px .5px 2.5px #000;
+  }
+
+  .description{
+    max-width:30rem;
+  }
